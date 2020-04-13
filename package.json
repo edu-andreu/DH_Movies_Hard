@@ -2,7 +2,7 @@
   "name": "dh_movies_hard",
   "version": "1.0.0",
   "description": "dh hard",
-  "main": "router.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
