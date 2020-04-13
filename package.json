@@ -1,11 +1,19 @@
 {
-  "name": "clase-7",
+  "name": "dh_movies_hard",
   "version": "1.0.0",
-  "description": "ejercicio de movies",
-  "main": "app.js",
+  "description": "dh hard",
+  "main": "router.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu-andreu/DH_Movies_Hard.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu-andreu/DH_Movies_Hard/issues"
+  },
+  "homepage": "https://github.com/edu-andreu/DH_Movies_Hard#readme"
 }
